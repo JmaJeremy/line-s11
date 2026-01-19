@@ -259,7 +259,7 @@ function App() {
               <h3 className="text-3xl font-bold text-gray-900">Local Feeder Network</h3>
             </div>
             <p className="text-gray-600 text-lg mb-8 leading-relaxed">
-              Through our partnership with BSZ Regio, comprehensive local bus services connect neighborhoods to S11 rail stations, creating a complete transit ecosystem.
+              Comprehensive local bus services connect neighborhoods to S11 rail stations, creating a complete transit ecosystem.
             </p>
             <div className="grid md:grid-cols-2 gap-4">
               <div className="flex items-start bg-gray-50 p-4 rounded-xl">
